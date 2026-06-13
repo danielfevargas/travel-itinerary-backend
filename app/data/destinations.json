@@ -1,0 +1,18 @@
+{
+  "presupuesto": {
+    "economico": "menos de $1000 USD, hostales o airbnb, transporte público, comida local y mercados, actividades gratuitas o de bajo costo",
+    "moderado": "$1000-$3000 USD, hoteles 3 estrellas, mezcla de transporte público y privado, restaurantes locales buenos, tours grupales",
+    "lujo": "más de $3000 USD, hoteles 4-5 estrellas, transporte privado, restaurantes premium, experiencias exclusivas y tours privados"
+  },
+  "ritmo": {
+    "relajado": "máximo 2-3 actividades por día, tiempo libre para explorar sin guía, siestas, cafés, sin itinerario rígido",
+    "equilibrado": "4-5 actividades por día, balance entre turismo y descanso, mezcla de actividades populares y locales",
+    "intensivo": "6 o más actividades por día, madrugar, aprovechar cada hora, ver el máximo de atracciones posible"
+  },
+  "tipo_viajero": {
+    "solo": "actividades de socialización, hostales con áreas comunes, tours grupales, seguridad como prioridad",
+    "pareja": "experiencias románticas, cenas especiales, actividades para dos, hoteles boutique",
+    "familia": "actividades aptas para niños, parques, museos interactivos, restaurantes familiares, seguridad",
+    "amigos": "vida nocturna, actividades de grupo, aventura, experiencias compartidas, presupuesto dividido"
+  }
+}

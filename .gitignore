@@ -1,0 +1,35 @@
+# Entornos virtuales
+venv/
+venv310/
+
+# Variables de entorno
+.env
+
+# Modelo entrenado (demasiado grande para GitHub)
+travel-model/
+travel-model-final/
+
+# Cache de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Cache de HuggingFace
+.cache/
+
+# Datasets intermedios
+travel_dataset_new.jsonl
+travel_dataset_local.jsonl
+
+# Scripts de generación y prueba (no necesarios en producción)
+generate_data.py
+generate_data_local.py
+test_model.py
+finetune.py
+
+# Archivos temporales
+*.tmp
+*.log
+out.txt
+err.txt
